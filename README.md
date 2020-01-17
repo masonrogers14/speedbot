@@ -1,0 +1,2 @@
+# speedbot
+automate speed workouts
