@@ -7,16 +7,17 @@ TL;DR Video: https://youtu.be/vyE-EaiIUfQ
 ## About
 #### Description
 Speed bot is a Mac Application that automates speed workout timing to make your training more efficient. Plug in your workout and hit run, and Speed Bot will call out splits, switches, and more. Speed Bot times your workout with an intuitive language of beeps that allow for great timing precision.
-
 #### Who might use Speed Bot?
 * Any jumper who has ever jumped a minute of speed while timing themselves on a wall clock
 * Any multitasker who has ever miscounted a speed jumper because they were focusing on timing the event (or vice versa)
 * Any coach who has ever struggled to focus on their jumpers’ form because they were too busy orchestrating the workout
 * Anyone who has had trouble keeping their workout on schedule
 * Anyone who jumps rope
-
 #### A Request:
 Please report bugs, feature requests, anecdotes about using the program, questions, comments, suggestions, etc. to me however you like to get in touch, or by opening an issue!
+
+## Running Speedbot from Github
+Download the 'code' folder and run 'main.py' however you run python code. Make sure your current working directory is set to the code folder. You may have to install several Python packages if you do not already have them. I am working to develop a dependency list for speedbot and find an efficient way to install all of the necessary packages. **If you don't want to mess with the source code and want to use a Mac app version instead, please let me know and I will send you one.**
 
 ## Interpreting the User Interface
 #### Basics
