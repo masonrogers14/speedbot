@@ -27,7 +27,7 @@ Download the 'code' folder and run 'main.py' however you run python code. Make s
 * The *run* and *stop* buttons start and stop the workout. Note that the *stop* button is not a pause buttion; *that would defeat the point of the application*.
 #### Clicker Mode
 * To count with your mouse, click on the clicker.
-* To count with your keyboard, hover your mouse over the clicker so that it turns blue. The spaceabar and up arrow work to click up. The down arrow clicks down. Backspace resets the clicker to zero.
+* To count with your keyboard, hover your mouse over the clicker so that it turns blue. The spacebar and up arrow work to click up. The down arrow clicks down. Backspace resets the clicker to zero.
 * To open the log and see split scores, either right click or use the left or right arrow keys.
 #### Settings
 * *Alternating* events will cycle through groups without rest. Repetitions are counted per group, and the total number of repetitions will be displayed when the event is added to your workout.
